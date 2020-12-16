@@ -1,0 +1,2 @@
+# JavaScript-init
+JS study
