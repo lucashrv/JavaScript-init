@@ -1,2 +1,2 @@
 # JavaScript-init
-JS study
+JS study :man_student:
